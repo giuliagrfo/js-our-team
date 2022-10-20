@@ -1,0 +1,11 @@
+img {
+    max-width: 100%;
+}
+
+.wrap {
+    padding: 0 10rem;
+}
+
+.wrap > p {
+    font-size: 14px;
+}
